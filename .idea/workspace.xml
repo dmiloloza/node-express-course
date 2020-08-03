@@ -79,6 +79,7 @@
       <updated>1596443807249</updated>
       <workItem from="1596443808310" duration="4287000" />
       <workItem from="1596450135387" duration="4432000" />
+      <workItem from="1596454613702" duration="2429000" />
     </task>
     <task id="LOCAL-00001" summary="chore: initial file setup - closes #2">
       <created>1596446789138</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596451471123</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chore: :id as Variable in URL - closes #5">
+      <created>1596454879717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596454879717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,51 +125,53 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: initial file setup - closes #2" />
     <MESSAGE value="chore: server starterd - closes #3" />
     <MESSAGE value="chore: JSON data - closes #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: JSON data - closes #4" />
+    <MESSAGE value="chore: :id as Variable in URL - closes #5" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: :id as Variable in URL - closes #5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="782" y="380" key="#Notifications" timestamp="1596443821929">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="782" y="380" key="#Notifications/-1920.369.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1596443821929" />
-    <state x="596" y="184" key="CommitChangelistDialog2" timestamp="1596451470690">
+    <state x="260" y="207" key="CommitChangelistDialog2" timestamp="1596454879281">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="596" y="184" key="CommitChangelistDialog2/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596446788697" />
-    <state x="596" y="184" key="CommitChangelistDialog2/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596451470690" />
+    <state x="260" y="207" key="CommitChangelistDialog2/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454879281" />
     <state x="514" y="208" key="FileChooserDialogImpl" timestamp="1596447755074">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="514" y="208" key="FileChooserDialogImpl/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596447755074" />
-    <state width="1002" height="167" key="GridCell.Tab.0.bottom" timestamp="1596454600873">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1515" height="165" key="GridCell.Tab.0.bottom" timestamp="1596456369588">
+      <screen x="-1920" y="369" width="1536" height="824" />
     </state>
     <state width="2027" height="376" key="GridCell.Tab.0.bottom/-1920.369.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1596445287209" />
-    <state width="2027" height="166" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596447847884" />
-    <state width="1002" height="167" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454600873" />
-    <state width="1002" height="167" key="GridCell.Tab.0.center" timestamp="1596454600873">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1515" height="165" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596456369588" />
+    <state width="1001" height="165" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454826617" />
+    <state width="1515" height="165" key="GridCell.Tab.0.center" timestamp="1596456369588">
+      <screen x="-1920" y="369" width="1536" height="824" />
     </state>
     <state width="2027" height="376" key="GridCell.Tab.0.center/-1920.369.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1596445287209" />
-    <state width="2027" height="166" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596447847884" />
-    <state width="1002" height="167" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454600873" />
-    <state width="1002" height="167" key="GridCell.Tab.0.left" timestamp="1596454600873">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1515" height="165" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596456369588" />
+    <state width="1001" height="165" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454826617" />
+    <state width="1515" height="165" key="GridCell.Tab.0.left" timestamp="1596456369588">
+      <screen x="-1920" y="369" width="1536" height="824" />
     </state>
     <state width="2027" height="376" key="GridCell.Tab.0.left/-1920.369.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1596445287209" />
-    <state width="2027" height="166" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596447847884" />
-    <state width="1002" height="167" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454600873" />
-    <state width="1002" height="167" key="GridCell.Tab.0.right" timestamp="1596454600873">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1515" height="165" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596456369588" />
+    <state width="1001" height="165" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454826617" />
+    <state width="1515" height="165" key="GridCell.Tab.0.right" timestamp="1596456369588">
+      <screen x="-1920" y="369" width="1536" height="824" />
     </state>
     <state width="2027" height="376" key="GridCell.Tab.0.right/-1920.369.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1596445287209" />
-    <state width="2027" height="166" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596447847884" />
-    <state width="1002" height="167" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454600873" />
+    <state width="1515" height="165" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596456369588" />
+    <state width="1001" height="165" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454826617" />
     <state width="2027" height="230" key="GridCell.Tab.1.bottom" timestamp="1596447799965">
       <screen x="-1920" y="369" width="1536" height="824" />
     </state>
@@ -210,11 +220,11 @@
       <screen x="-1920" y="369" width="1536" height="824" />
     </state>
     <state width="2027" height="230" key="GridCell.Tab.3.right/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596447799965" />
-    <state x="568" y="351" key="Vcs.Push.Dialog.v2" timestamp="1596451474196">
+    <state x="568" y="351" key="Vcs.Push.Dialog.v2" timestamp="1596454883489">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="568" y="351" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-1920.369.1536.824@-1920.369.1536.824" timestamp="1596446805903" />
-    <state x="568" y="351" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596451474196" />
+    <state x="568" y="351" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-1920.369.1536.824@0.0.2048.1112" timestamp="1596454883489" />
     <state x="688" y="169" width="579" height="801" key="find.popup" timestamp="1596447847777">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
